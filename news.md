@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Talks and Conferences
-permalink: /talks/
+permalink: /news/
 ---
 
 <a href="{{ '/' | relative_url }}" class="btn btn-light btn-sm mb-3">
