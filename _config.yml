@@ -20,3 +20,5 @@ collections:
   - publications
   - news
   - showcase
+
+  plugins: []
