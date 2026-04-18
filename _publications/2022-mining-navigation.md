@@ -6,7 +6,7 @@ year: 2022
 selected: true
 paper: "https://doi.org/10.3390/s22083038"
 date: 2022-01-01
-image: assets/images/publications/2022.png
+image: /webpage/assets/images/publications/2022.png
 ---
 
 This work studies landmark-based navigation in underground mining environments using 2D LiDAR, focusing on geometric optimization for improved localization reliability.
