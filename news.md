@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Talks and Conferences
-permalink: /news/
+permalink: /talks/
 ---
 
-<h2>News</h2>
+<a href="{{ '/' | relative_url }}" class="btn btn-light btn-sm mb-3">
+  ← Back to Home
+</a>
 
+<h2>Talks and Conferences</h2>
+
+{% assign talks = site.news | sort: "date" | reverse %}
 <ul>
-  {% for item in site.news %}
+  {% for item in talks %}
     <li>
       <strong>{{ item.date | date: "%Y-%m-%d" }}</strong> —
       {{ item.title }}
@@ -16,8 +21,3 @@ permalink: /news/
     </li>
   {% endfor %}
 </ul>
-
-
-<a href="{{ '/' | relative_url }}" class="btn btn-light btn-sm mb-3">
-    ← Back to Home
-</a>
