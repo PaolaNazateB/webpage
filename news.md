@@ -4,9 +4,7 @@ title: Talks and Conferences
 permalink: /news/
 ---
 
-<a href="{{ '/' | relative_url }}" class="btn btn-light btn-sm mb-3">
-  ← Back to Home
-</a>
+
 
 <h2>Talks and Conferences</h2>
 
