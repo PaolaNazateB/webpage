@@ -9,3 +9,8 @@ collections:
   - publications
   - news
   - showcase
+
+
+collections:
+  news:
+    output: true
