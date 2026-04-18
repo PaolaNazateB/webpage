@@ -34,11 +34,13 @@ education:
   date: "2021 – Present"
 
 - name: "Escuela de las Fuerzas Armadas (ESPE)"
+  logo: /assets/images/badges/ESPE.png
   position: >-
     M.Sc. in University Education
   date: "2016 – 2018"
 
 - name: "Escuela Politécnica Nacional"
+  logo: /assets/images/badges/udec.png
   position: >-
     B.Sc. in Control and Automation Engineering
   date: "2006 – 2012"
