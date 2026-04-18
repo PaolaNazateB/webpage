@@ -18,3 +18,6 @@ permalink: /news/
 </ul>
 
 
+<a href="{{ '/' | relative_url }}" class="btn btn-light btn-sm mb-3">
+    ← Back to Home
+</a>
