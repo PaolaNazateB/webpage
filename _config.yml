@@ -6,11 +6,9 @@ markdown: kramdown
 plugins: []
 
 collections:
-  - publications
-  - news
-  - showcase
-
-
-collections:
+  publications:
+    output: true
   news:
+    output: true
+  showcase:
     output: true
