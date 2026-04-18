@@ -1,6 +1,6 @@
 ---
 layout: default
-title: News
+title: Talks and Conferences
 permalink: /news/
 ---
 
@@ -16,3 +16,5 @@ permalink: /news/
     </li>
   {% endfor %}
 </ul>
+
+
