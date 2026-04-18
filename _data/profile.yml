@@ -7,7 +7,7 @@ positions:
 - name: "Pontificia Universidad Católica de Chile"
 
 email: "pjnazate@uc.cl"
-cv_link: /webpage/files/cv.pdf
+cv_link: /webpage/_data/PNB_CV.pdf
 gscholar: eNi1P4QAAAAJ
 github: PaolaNazateB
 
@@ -37,4 +37,18 @@ education:
     B.Sc. in Electrical Civil Engineering
   date: ""
 
-awards: []
+awards:
+- name: "National Doctorate Scholarship – ANID (Chile)"
+  date: "2021"
+
+- name: "Internship Operating Expenses Grant – ANID (University of Technology Sydney)"
+  date: "2023"
+
+- name: "Development Comprehensive Student Grant – ICTP (Italy)"
+  date: "2019"
+
+- name: "Entrepreneurship for Scientists Grant – SAIFR (Brazil)"
+  date: "2016"
+
+- name: "Advanced Instrumentation School Grant – Instituto Tecnológico de Costa Rica"
+  date: "2014"
