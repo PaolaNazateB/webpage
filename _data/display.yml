@@ -1,4 +1,6 @@
 homepage:
-  show_experience: false
-  show_news: false
+  show_education: true
+  show_experience: true
+  show_news: false   # (ya que lo cambiaste a publications)
   show_selected_publications: true
+  num_news: 10
