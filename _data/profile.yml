@@ -7,18 +7,20 @@ positions:
 - name: "Pontificia Universidad Católica de Chile"
 
 email: "pjnazate@uc.cl"
-cv_link: /webpage/_data/PNB_CV.pdf
+cv_link: /files/PNB_CV.pdf
 gscholar: eNi1P4QAAAAJ
 github: PaolaNazateB
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Ph.D. candidate in Electrical Engineering focused on autonomous robotic systems for outdoor and unstructured environments.
+    I am a Ph.D. candidate in Electrical Engineering at Pontificia Universidad Católica de Chile.
   </p>
   <p>
-    My research centers on SLAM, sensor fusion under GNSS-denied conditions, and multimodal perception using lidar, radar, RGB, and inertial sensors.
-    I am particularly interested in agricultural robotics, environmental monitoring, and smart sensing systems for natural resource management.
+    My research focuses on autonomous robotic systems for unstructured and outdoor environments, with emphasis on SLAM, sensor fusion under GNSS-denied conditions, and multimodal perception using LiDAR, radar, RGB, and inertial sensors.
+  </p>
+  <p>
+    I am particularly interested in agricultural robotics, environmental monitoring, and distributed sensing systems for real-world deployment.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpeg
@@ -29,13 +31,17 @@ education:
   logo: /assets/images/badges/uc.png
   position: >-
     Ph.D. in Electrical Engineering
-  date: "Present"
+  date: "2021 – Present"
+
+- name: "Escuela de las Fuerzas Armadas (ESPE)"
+  position: >-
+    M.Sc. in University Education
+  date: "2016 – 2018"
 
 - name: "Escuela Politécnica Nacional"
-  logo: /assets/images/badges/udec.png
   position: >-
-    B.Sc. in Electrical Civil Engineering
-  date: ""
+    B.Sc. in Control and Automation Engineering
+  date: "2006 – 2012"
 
 awards:
 - name: "National Doctorate Scholarship – ANID (Chile)"
